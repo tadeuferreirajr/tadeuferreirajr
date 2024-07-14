@@ -15,6 +15,8 @@ Português🇧🇷 (native)
 English 🇺🇸 (fluent)
 Français 🇫🇷 (intermédiaire, étudiant pour le TCF)
 
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=white)
+
 <!--
 **tadeuferreirajr/tadeuferreirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
