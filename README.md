@@ -16,7 +16,10 @@ English 🇺🇸 (fluent)
 Français 🇫🇷 (intermédiaire, étudiant pour le TCF)
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=white)
+![Static Badge](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=%23FF9900&logoColor=black&color=white)
 ![Static Badge](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&color=blue)
+![Static Badge](https://img.shields.io/badge/VBA%2FExcel-3776AB?style=for-the-badge&logo=excel&color=green)
+
 
 <!--
 **tadeuferreirajr/tadeuferreirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
